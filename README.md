@@ -17,7 +17,7 @@ proceso_etl/
 │── etl_proceso.py               # Script principal ETL
 │── documentacion_etl.md         # Documentación del proceso
 │── reflexion_etl.md             # Reflexión sobre el ejercicio
-│── README.md                    # Este archivo
+│── README.md                    # Instrucciones generales y resumen de proyecto
 ```
 
 ---
