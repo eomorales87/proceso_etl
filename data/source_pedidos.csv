@@ -1,0 +1,4 @@
+id_pedido,id_cliente,producto,monto,fecha_pedido
+1001,1,Laptop,1500,12-07-23
+1002,2,Tablet,800,05-03-22
+1003,3,Teclado,50,21-12-21
